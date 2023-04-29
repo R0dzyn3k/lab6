@@ -1,0 +1,18 @@
+.content {
+    -fx-background-color: #2222;
+    -fx-border-color: #222;
+}
+.main-table{
+    -fx-background-color:  #6660;
+}
+.btn{
+    -fx-font-size:  10px;
+    -fx-font-family: arial;
+    -fx-translate-y: 0;
+    -fx-transition: -fx-translate-y 0.5s ease;
+}
+.btn:hover {
+    -fx-background-color: #222;
+    -fx-text-fill: #fff;
+    -fx-translate-y: 10;
+}
